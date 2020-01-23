@@ -1,3 +1,3 @@
 # git-traning
-my first github project
-For tutiorial purpose only
+my first github project.
+For tutiorial purpose only.
